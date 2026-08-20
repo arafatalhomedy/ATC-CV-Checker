@@ -1,0 +1,6 @@
+flask
+pdfplumber
+python-docx
+numpy
+pandas
+scikit-learn

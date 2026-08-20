@@ -1,0 +1,23 @@
+Backend Software Engineer
+
+We are looking for a Backend Software Engineer with strong experience in
+Python to join our growing engineering team. You will design and build
+scalable microservices, work with distributed systems, and collaborate
+closely with product and data teams.
+
+Requirements:
+- 3+ years of professional experience in Python development
+- Experience with Django or Flask
+- Strong knowledge of PostgreSQL or other relational databases
+- Experience with AWS or another cloud platform
+- Familiarity with Docker and containerized deployments
+- Experience building and maintaining REST APIs
+- Bonus: experience with Pandas or NumPy for data processing
+- Bonus: experience with Kubernetes and CI/CD pipelines
+
+Responsibilities:
+- Design, build, and maintain backend services and APIs
+- Optimize systems for performance and reliability at scale
+- Write clean, well-tested, maintainable Python code
+- Collaborate with cross-functional teams on technical design
+- Participate in code review and mentor junior engineers

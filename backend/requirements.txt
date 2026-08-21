@@ -4,3 +4,4 @@ python-docx
 numpy
 pandas
 scikit-learn
+gunicorn
